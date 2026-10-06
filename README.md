@@ -1,2 +1,3 @@
-# fits-data-transfer
-Fits quick and full format differences
+# Fits format for  transfer
+
+### 6 Oct 2026 by Oleg G.kapranov
